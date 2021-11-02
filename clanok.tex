@@ -2,7 +2,7 @@
 
 \documentclass[10pt,twoside,slovak,a4paper]{article}
 
-\usepackage[slovak]{babel}
+\usepackage[slovak, english]{babel}
 %\usepackage[T1]{fontenc}
 \usepackage[IL2]{fontenc} % lepšia sadzba písmena Ľ než v T1
 \usepackage[utf8]{inputenc}
@@ -15,15 +15,15 @@
 
 \pagestyle{headings}
 
-\title{Názov\thanks{Semestrálny projekt v predmete Metódy inžinierskej práce, ak. rok 2015/16, vedenie: Meno Priezvisko}} % meno a priezvisko vyučujúceho na cvičeniach
+\title{Describing the capabilities and cases of uses for sequence diagrams in software engineering \thanks{Semestrálny projekt v predmete Metódy inžinierskej práce, ak. rok 2021/22, vedenie: Shevchenko Serhii}} % meno a priezvisko vyučujúceho na cvičeniach
 
-\author{Meno Priezvisko\\[2pt]
+\author{Shevcheko Serhii\\[2pt]
 	{\small Slovenská technická univerzita v Bratislave}\\
 	{\small Fakulta informatiky a informačných technológií}\\
-	{\small \texttt{...@stuba.sk}}
+	{\small \texttt{xshevchenko@stuba.sk}}
 	}
 
-\date{\small 30. september 2015} % upravte
+\date{\small 5. november 2021} 
 
 
 
@@ -32,44 +32,47 @@
 \maketitle
 
 \begin{abstract}
-\ldots
+The article will describe the general principles of constructing sequence diagrams, and provide optimal cases of their use in the field of software engineering modeling.
+
+The main structural elements of a sequence diagram will be described, the rules for their use with corresponding examples.
 \end{abstract}
 
 
 
-\section{Úvod}
+\section{Introduction}
 
-Motivujte čitateľa a vysvetlite, o čom píšete. Úvod sa väčšinou nedelí na časti.
+In the well-known graphical description language for modeling in the field of software development, UML, there are several types of diagrams, each of which has its own advantages and disadvantages.
 
-Uveďte explicitne štruktúru článku. Tu je nejaký príklad.
-Základný problém, ktorý bol naznačený v úvode, je podrobnejšie vysvetlený v časti~\ref{nejaka}.
-Dôležité súvislosti sú uvedené v častiach~\ref{dolezita} a~\ref{dolezitejsia}.
-Záverečné poznámky prináša časť~\ref{zaver}.
+Among the popular types of diagrams are class diagrams, component diagrams, and activity diagrams.
+
+The problem with all the above diagrams is that they cannot simulate the dynamics of the model, the behavior and the relationship between "actors" over time. They represent the structure, but not the behavior of the model on the timeline.
+
+To solve this problem, a sequence diagram was created. It, unlike other types of diagrams, shows the interactions of "actors" on the timeline, the exchange of "messages" (data) between them. And, again, this is all shown in projection on the time axis. That is, it allows you to explore the model in dynamics.
 
 
 
-\section{Nejaká časť} \label{nejaka}
+\section{When to use a sequence diagram} \label{when}
 
-Z obr.~\ref{f:rozhod} je všetko jasné. 
+% Z obr.~\ref{f:rozhod} je všetko jasné. 
 
 \begin{figure*}[tbh]
 \centering
 %\includegraphics[scale=1.0]{diagram.pdf}
-Aj text môže byť prezentovaný ako obrázok. Stane sa z neho označný plávajúci objekt. Po vytvorení diagramu zrušte znak \texttt{\%} pred príkazom \verb|\includegraphics| označte tento riadok ako komentár (tiež pomocou znaku \texttt{\%}).
-\caption{Rozhodujúci argument.}
-\label{f:rozhod}
+% Aj text môže byť prezentovaný ako obrázok. Stane sa z neho označný plávajúci objekt. Po vytvorení diagramu zrušte znak \texttt{\%} pred príkazom \verb|\includegraphics| označte tento riadok ako komentár (tiež pomocou znaku \texttt{\%}).
+% \caption{Rozhodujúci argument.}
+% \label{f:rozhod}
 \end{figure*}
 
 
 
-\section{Iná časť} \label{ina}
+\section{The notation} \label{consists}
 
-Základným problémom je teda\ldots{} Najprv sa pozrieme na nejaké vysvetlenie (časť~\ref{ina:nejake}), a potom na ešte nejaké (časť~\ref{ina:nejake}).\footnote{Niekedy môžete potrebovať aj poznámku pod čiarou.}
+% Základným problémom je teda\ldots{} Najprv sa pozrieme na nejaké vysvetlenie (časť~\ref{ina:nejake}), a potom na ešte nejaké (časť~\ref{ina:nejake}).\footnote{Niekedy môžete potrebovať aj poznámku pod čiarou.}
 
-Môže sa zdať, že problém vlastne nejestvuje\cite{Coplien:MPD}, ale bolo dokázané, že to tak nie je~\cite{Czarnecki:Staged, Czarnecki:Progress}. Napriek tomu, aj dnes na webe narazíme na všelijaké pochybné názory\cite{PLP-Framework}. Dôležité veci možno \emph{zdôrazniť kurzívou}.
+% Môže sa zdať, že problém vlastne nejestvuje\cite{Coplien:MPD}, ale bolo dokázané, že to tak nie je~\cite{Czarnecki:Staged, Czarnecki:Progress}. Napriek tomu, aj dnes na webe narazíme na všelijaké pochybné názory\cite{PLP-Framework}. Dôležité veci možno \emph{zdôrazniť kurzívou}.
 
 
-\subsection{Nejaké vysvetlenie} \label{ina:nejake}
+% \subsection{Nejaké vysvetlenie} \label{ina:nejake}
 
 Niekedy treba uviesť zoznam:
 
@@ -94,24 +97,20 @@ Ten istý zoznam, len číslovaný:
 \end{enumerate}
 
 
-\subsection{Ešte nejaké vysvetlenie} \label{ina:este}
+% \subsection{Ešte nejaké vysvetlenie} \label{ina:este}
 
 \paragraph{Veľmi dôležitá poznámka.}
 Niekedy je potrebné nadpisom označiť odsek. Text pokračuje hneď za nadpisom.
 
 
 
-\section{Dôležitá časť} \label{dolezita}
+\section{Building a Sequence Diagram} \label{building}
 
 
 
 
-\section{Ešte dôležitejšia časť} \label{dolezitejsia}
 
-
-
-
-\section{Záver} \label{zaver} % prípadne iný variant názvu
+\section{Conclusion} \label{Conclusion} % prípadne iný variant názvu
 
 
 
