@@ -526,10 +526,17 @@ INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx
 INPUT C:\Users\serge\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx10.tfm
+INPUT .\clanok.bbl
+INPUT clanok.bbl
+INPUT .\clanok.bbl
+INPUT clanok.bbl
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cstt10.tfm
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cssl10.tfm
 INPUT clanok.aux
 INPUT .\clanok.out
 INPUT .\clanok.out
+INPUT C:\Users\serge\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cstt10.pk
+INPUT C:\Users\serge\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cstt10.pk
 INPUT C:\Users\serge\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
 INPUT C:\Users\serge\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
 INPUT C:\Users\serge\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk

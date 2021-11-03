@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex clanok"] 1635949745 "clanok.aux" "clanok.bbl" "clanok" 1635949748
+["bibtex clanok"] 1635976981 "clanok.aux" "clanok.bbl" "clanok" 1635976982
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "clanok.aux" 1635949747 1823 b32755c401cd9e98dc5a06ee1e8c2019 "pdflatex"
-  "literatura.bib" 0 -1 0 ""
+  "clanok.aux" 1635976926 1861 c8e0ede0f9aba5a8655326542444591c "pdflatex"
+  "literatura.bib" 1635976981 794 2b06fed618cf5a08c85de29f4bf95ce7 ""
   (generated)
   "clanok.blg"
   "clanok.bbl"
-["pdflatex"] 1635949745 "c:/Desktop/Mip article/MIP/clanok.tex" "clanok.pdf" "clanok" 1635949748
+["pdflatex"] 1635976924 "c:/Desktop/Mip article/MIP/clanok.tex" "clanok.pdf" "clanok" 1635976982
   "C:/Users/serge/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0600.pk" 1633002376 7284 2d146c9955048cd8f65ab94bbbbb220e ""
   "C:/Users/serge/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1633002369 11548 a00c0de3fa1f39e6be6cf1da4d9439eb ""
   "C:/Users/serge/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1633002391 14064 ad8b7667ab01986c22f02c4f1609c943 ""
@@ -18,10 +18,11 @@
   "C:/Users/serge/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csr8.pk" 1633002375 13340 a3921236f087b635d99cd9aeedd287e2 ""
   "C:/Users/serge/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csr9.pk" 1633002388 14856 9e48d35ef9dfd6e2420fef3ede1222a3 ""
   "C:/Users/serge/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/cssl10.pk" 1633002372 20212 f6e1993d8c3f6f6f1e417a769fc5b362 ""
+  "C:/Users/serge/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/cstt10.pk" 1633002380 13276 f2afadcb33bbc07e1c7113cc2807387a ""
   "C:/Users/serge/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/cstt9.pk" 1633002387 11584 7594613ecf20e5c652d21f594f88c54e ""
   "C:/Users/serge/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi720/csbx12.pk" 1633002384 27708 5b7b2dbfd4ce51c01d99eb5097ebaa11 ""
   "C:/Users/serge/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1633001965 9742851 b3a71fc99ec7cf67fd5aedecb3c6694a ""
-  "C:/Users/serge/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1635782386 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/serge/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1635953667 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm0600.tfm" 993058906 1456 d21918d95ca20f07aa266303b9a0a14c ""
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993058908 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993058908 1444 95ffe0f19b974d50849790c8225c7ef7 ""
@@ -45,6 +46,7 @@
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/csr8.tfm" 867743228 2368 f4f9f06a2b86f71b5f351721c3e60919 ""
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/csr9.tfm" 867743230 2376 de3119feecfe0dae00b14f6e9033497b ""
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/cssl10.tfm" 867743234 2604 017cb3ae2597ec48c1aa5eb8f746f130 ""
+  "C:/Users/serge/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/cstt10.tfm" 867743322 1280 7d36f30f3ae8103ea4cbddb23dd71aea ""
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/cstt9.tfm" 867743332 1276 c0504c18a6a7a61858690795c8c0b15a ""
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/tex/cslatex/base/il2cmr.fd" 1030517054 2233 ed1615a25411b6b9d990c84a33d9881b ""
@@ -100,13 +102,13 @@
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "C:/Users/serge/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Desktop/Mip article/MIP/clanok.tex" 1635949744 4540 a3a5e9192fb28b4aeb3c36d1cef694c1 ""
-  "clanok.aux" 1635949747 1823 b32755c401cd9e98dc5a06ee1e8c2019 "pdflatex"
-  "clanok.bbl" 0 -1 0 "bibtex clanok"
-  "clanok.out" 1635949747 697 699916070229e5db5834e564e11583db "pdflatex"
-  "clanok.tex" 1635949744 4540 a3a5e9192fb28b4aeb3c36d1cef694c1 ""
+  "c:/Desktop/Mip article/MIP/clanok.tex" 1635976923 4866 349ffbc3156e134cdad71f06690b5836 ""
+  "clanok.aux" 1635976926 1861 c8e0ede0f9aba5a8655326542444591c "pdflatex"
+  "clanok.bbl" 1635976982 207 5f771205384431ca833af8b68d16effe "bibtex clanok"
+  "clanok.out" 1635976926 697 699916070229e5db5834e564e11583db "pdflatex"
+  "clanok.tex" 1635976923 4866 349ffbc3156e134cdad71f06690b5836 ""
   (generated)
-  "clanok.out"
-  "clanok.pdf"
   "clanok.log"
+  "clanok.out"
   "clanok.aux"
+  "clanok.pdf"

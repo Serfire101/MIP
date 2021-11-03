@@ -10,8 +10,8 @@
 \usepackage{url} % príkaz \url na formátovanie URL
 \usepackage{hyperref} % odkazy v texte budú aktívne (pri niektorých triedach dokumentov spôsobuje posun textu)
 
-\usepackage{cite}
-%\usepackage{times}
+\usepackage{cite} 
+% \addbibresource{sample.bib}
 
 \pagestyle{headings}
 
@@ -52,7 +52,9 @@ To solve this problem, a sequence diagram was created. It, unlike other types of
 When to use a sequence diagram is detailed in the Part ~\ref{when}. Details about sequence diagram notation are in a~\ref{notation} Part. In a~\ref{building} Part there are tips about creating sequence diagram. And the ~\ref{Conclusion} Part is a Conclusion of this article.
 
 \section{When to use a sequence diagram} \label{when}
+A sequence diagram should be used primarily to visualize relationships between objects, taking into account the sequence of these very relationships.~\cite{IBM_SD}
 
+This diagram is very useful for modeling synchronous services, it allows you to think through all the interactions between "actors" from the beginning to the end of the service life cycle on the timeline.
 % Z obr.~\ref{f:rozhod} je všetko jasné. 
 
 \begin{figure*}[tbh]
@@ -114,7 +116,7 @@ Niekedy je potrebné nadpisom označiť odsek. Text pokračuje hneď za nadpisom
 
 
 
-%\acknowledgement{Ak niekomu chcete poďakovať\ldots}
+
 
 
 % týmto sa generuje zoznam literatúry z obsahu súboru literatura.bib podľa toho, na čo sa v článku odkazujete
