@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.30)  2 NOV 2021 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.30)  3 NOV 2021 16:29
 entering extended mode
-**"c:/Desktop/Mip article/clanok.tex"
-(c:/Desktop/Mip article/clanok.tex
+**"c:/Desktop/Mip article/MIP/clanok.tex"
+(c:/Desktop/Mip article/MIP/clanok.tex
 LaTeX2e <2021-06-01>
 L3 programming layer <2021-06-01> (C:\Users\serge\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
@@ -277,17 +277,17 @@ Package rerunfilecheck Info: File `clanok.out' has not changed.
 (rerunfilecheck)             Checksum: 699916070229E5DB5834E564E11583DB;697.
  ) 
 Here is how much of TeX's memory you used:
- 9290 strings out of 478864
- 138676 string characters out of 2848660
- 462932 words of memory out of 3000000
- 27068 multiletter control sequences out of 15000+600000
+ 9294 strings out of 478864
+ 138758 string characters out of 2848660
+ 463932 words of memory out of 3000000
+ 27072 multiletter control sequences out of 15000+600000
  414727 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,7n,66p,366b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,7n,66p,370b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on clanok.pdf (2 pages, 89156 bytes).
+Output written on clanok.pdf (2 pages, 92536 bytes).
 PDF statistics:
- 327 PDF objects out of 1000 (max. 8388607)
+ 338 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

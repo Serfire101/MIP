@@ -1,6 +1,6 @@
-PWD c:\Desktop\Mip article
+PWD c:\Desktop\Mip article\MIP
 INPUT C:\Users\serge\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Desktop\Mip article\clanok.tex
+INPUT c:\Desktop\Mip article\MIP\clanok.tex
 OUTPUT clanok.log
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
