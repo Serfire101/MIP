@@ -5,4 +5,9 @@ Donald Bell.
 \newblock Explore the uml sequence diagram.
 \newblock \url{https://developer.ibm.com/articles/the-sequence-diagram/}.
 
+\bibitem{UML}
+Object~Managment Group.
+\newblock Unified modeling language, v2.5.1.
+\newblock \url{https://www.omg.org/spec/UML/2.5.1/PDF}.
+
 \end{thebibliography}
