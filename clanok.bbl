@@ -5,9 +5,24 @@ Donald Bell.
 \newblock Explore the uml sequence diagram.
 \newblock \url{https://developer.ibm.com/articles/the-sequence-diagram/}.
 
+\bibitem{UML_Distilled}
+Martin Fowler.
+\newblock {\em UML Distilled}.
+\newblock Addison-Wesley, 2003.
+
+\bibitem{UML_user_guide:Booch}
+Ivar~Jacobson Grady~Booch, James~Rumbaugh.
+\newblock {\em Unified Modeling Language User Guide}.
+\newblock Addison-Wesley, 2005.
+
 \bibitem{UML}
 Object~Managment Group.
 \newblock Unified modeling language, v2.5.1.
 \newblock \url{https://www.omg.org/spec/UML/2.5.1/PDF}.
+
+\bibitem{Sequence_diagram:Lambert}
+Susan F.~Marseken Lambert M.~Surhone, Miriam T.~Timpledon.
+\newblock {\em Sequence Diagram}.
+\newblock VDM Publishing, 2010.
 
 \end{thebibliography}

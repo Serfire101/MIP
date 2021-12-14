@@ -413,6 +413,28 @@ INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
@@ -525,6 +547,14 @@ INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csr1
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx12.tfm
 INPUT C:\Users\serge\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx12.tfm
+INPUT .\imgs\\UML diagrams.png
+INPUT .\imgs\\UML diagrams.png
+INPUT imgs\\UML diagrams.png
+INPUT .\imgs\\UML diagrams.png
+INPUT .\imgs\\UML diagrams.png
+INPUT .\imgs\\UML diagrams.png
+INPUT .\imgs\\UML diagrams.png
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cssl10.tfm
 INPUT .\imgs\\frame.jpg
 INPUT .\imgs\\frame.jpg
 INPUT imgs\\frame.jpg
@@ -546,15 +576,17 @@ INPUT .\imgs\\Message.png
 INPUT .\imgs\\Message.png
 INPUT .\imgs\\Message.png
 INPUT .\imgs\\Message.png
-INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cssl10.tfm
 INPUT .\clanok.bbl
 INPUT clanok.bbl
 INPUT .\clanok.bbl
 INPUT clanok.bbl
 INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cstt10.tfm
+INPUT C:\Users\serge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csti10.tfm
 INPUT clanok.aux
 INPUT .\clanok.out
 INPUT .\clanok.out
+INPUT C:\Users\serge\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csti10.pk
+INPUT C:\Users\serge\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csti10.pk
 INPUT C:\Users\serge\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cstt10.pk
 INPUT C:\Users\serge\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cstt10.pk
 INPUT C:\Users\serge\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx12.pk

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.30)  5 NOV 2021 16:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.30)  14 DEC 2021 01:18
 entering extended mode
 **"c:/Desktop/Mip article/MIP/clanok.tex"
 (c:/Desktop/Mip article/MIP/clanok.tex
@@ -191,53 +191,72 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
+) (C:\Users\serge\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (C:\Users\serge\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen146
+\ar@mcellbox=\box50
+\extrarowheight=\dimen147
+\NC@list=\toks19
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box51
+)
+\TX@col@width=\dimen148
+\TX@old@table=\dimen149
+\TX@old@col=\dimen150
+\TX@target=\dimen151
+\TX@delta=\dimen152
+\TX@cols=\count269
+\TX@ftn=\toks20
 ) (C:\Users\serge\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count269
-\l__pdf_internal_box=\box50
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box52
 ) (clanok.aux)
 \openout1 = `clanok.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
  (C:\Users\serge\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count270
-\scratchdimen=\dimen146
-\scratchbox=\box51
-\nofMPsegments=\count271
-\nofMParguments=\count272
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count273
-\MPscratchDim=\dimen147
-\MPnumerator=\count274
-\makeMPintoPDFobject=\count275
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count271
+\scratchdimen=\dimen153
+\scratchbox=\box53
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen154
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks22
 ) (C:\Users\serge\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\serge\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 29.
  (C:\Users\serge\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\serge\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -245,66 +264,91 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\serge\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count276
+\c@section@level=\count277
 )
-LaTeX Info: Redefining \ref on input line 30.
-LaTeX Info: Redefining \pageref on input line 30.
-LaTeX Info: Redefining \nameref on input line 30.
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
  (clanok.out) (clanok.out)
 \@outlinefile=\write3
 \openout3 = `clanok.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 33.
+(Font)              <17.28> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 33.
+(Font)              <12> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
-LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 33.
+(Font)              <6> on input line 32.
+LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 32.
  (C:\Users\serge\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
+(Font)              <5> on input line 32.
  [1
 
 {C:/Users/serge/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-<imgs//frame.jpg, id=57, 386.44376pt x 222.8325pt>
+<imgs//UML diagrams.png, id=64, 537.207pt x 298.716pt>
+File: imgs//UML diagrams.png Graphic file (type png)
+<use imgs//UML diagrams.png>
+Package pdftex.def Info: imgs//UML diagrams.png  used on input line 65.
+(pdftex.def)             Requested size: 268.60284pt x 149.35762pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 73.
+
+Underfull \hbox (badness 2253) in paragraph at lines 77--78
+[]|\IL2/cmr/m/n/10 objects and mes-sages on
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 79--80
+[]|\IL2/cmr/m/n/10 classes, that con-tain at-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 83--83
+\IL2/cmr/m/n/10 po-nents or soft-ware sys-
+ []
+
+
+Overfull \hbox (54.8563pt too wide) in paragraph at lines 73--86
+[][] 
+ []
+
+[2 <./imgs//UML diagrams.png>]
+<imgs//frame.jpg, id=78, 386.44376pt x 222.8325pt>
 File: imgs//frame.jpg Graphic file (type jpg)
 <use imgs//frame.jpg>
-Package pdftex.def Info: imgs//frame.jpg  used on input line 81.
+Package pdftex.def Info: imgs//frame.jpg  used on input line 113.
 (pdftex.def)             Requested size: 193.2214pt x 111.41597pt.
-<imgs//lifeline.png, id=58, 101.37875pt x 191.71625pt>
+<imgs//lifeline.png, id=79, 101.37875pt x 191.71625pt>
 File: imgs//lifeline.png Graphic file (type png)
 <use imgs//lifeline.png>
-Package pdftex.def Info: imgs//lifeline.png  used on input line 92.
+Package pdftex.def Info: imgs//lifeline.png  used on input line 124.
 (pdftex.def)             Requested size: 60.82771pt x 115.03062pt.
-<imgs//Message.png, id=62, 241.90375pt x 402.50375pt>
+<imgs//Message.png, id=83, 241.90375pt x 402.50375pt>
 File: imgs//Message.png Graphic file (type png)
 <use imgs//Message.png>
-Package pdftex.def Info: imgs//Message.png  used on input line 104.
+Package pdftex.def Info: imgs//Message.png  used on input line 136.
 (pdftex.def)             Requested size: 145.14336pt x 241.5041pt.
- [2 <./imgs//frame.jpg> <./imgs//lifeline.png>] (clanok.bbl
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
-) [3 <./imgs//Message.png>] (clanok.aux)
+ (clanok.bbl [3 <./imgs//frame.jpg>]) [4 <./imgs//lifeline.png>] [5 <./imgs//Message.png>] (clanok.aux)
 Package rerunfilecheck Info: File `clanok.out' has not changed.
-(rerunfilecheck)             Checksum: A17D5019287D1F6B413A7FE367D614E6;978.
+(rerunfilecheck)             Checksum: B1F1337CEBFC52188CA67C5F2D0CF656;1236.
  ) 
 Here is how much of TeX's memory you used:
- 9339 strings out of 478864
- 139551 string characters out of 2848660
- 464223 words of memory out of 3000000
- 27106 multiletter control sequences out of 15000+600000
- 414686 words of font info for 54 fonts, out of 8000000 for 9000
+ 9465 strings out of 478864
+ 141371 string characters out of 2848660
+ 466344 words of memory out of 3000000
+ 27218 multiletter control sequences out of 15000+600000
+ 415286 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,66p,370b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on clanok.pdf (3 pages, 118156 bytes).
+ 60i,10n,66p,468b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\serge\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
+Output written on clanok.pdf (5 pages, 207156 bytes).
 PDF statistics:
- 408 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 80 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 492 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,16 +1,15 @@
 % Metódy inžinierskej práce
 
-\documentclass[10pt,twoside,slovak,a4paper]{article}
-
+\documentclass[10pt,slovak,a4paper]{article}
 \usepackage[slovak, english]{babel}
-%\usepackage[T1]{fontenc}
-\usepackage[IL2]{fontenc} % lepšia sadzba písmena Ľ než v T1
+\usepackage[IL2]{fontenc} 
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
-\usepackage{url} % príkaz \url na formátovanie URL
-\usepackage{hyperref} % odkazy v texte budú aktívne (pri niektorých triedach dokumentov spôsobuje posun textu)
+\usepackage{url}
+\usepackage{hyperref} 
 \graphicspath{{imgs/}}
 \usepackage{cite} 
+\usepackage{tabularx}
 
 
 \pagestyle{headings}
@@ -47,9 +46,44 @@ Among the popular types of diagrams are class diagrams, component diagrams, and 
 
 The problem with all the above diagrams is that they cannot simulate the dynamics of the model, the behavior and the relationship between "actors" over time. They represent the structure, but not the behavior of the model on the timeline.
 
-To solve this problem, a sequence diagram was created. It, unlike other types of diagrams, shows the interactions of "actors" on the timeline, the exchange of "messages" (data) between them. And, again, this is all shown in projection on the time axis. That is, it allows you to explore the model in dynamics.
+To solve this problem, a sequence diagram was created. It, unlike other types of diagrams, shows the interactions of "actors" on the timeline, the exchange of "messages" (data) between them. And, again, this is all shown in projection on the time axis. That is, it allows to explore the model in dynamics~\cite{Sequence_diagram:Lambert}.
 
-When to use a sequence diagram is detailed in the Part ~\ref{when}. Details about sequence diagram notation are in a~\ref{notation} Part. In a~\ref{building} Part there are tips about creating sequence diagram. And the ~\ref{Conclusion} Part is a Conclusion of this article.
+\section{What is UML?} \label{what_is_diagram}
+Before we talk about sequence diagrams, we should first understand what UML is, of which the sequence diagram is a part.
+
+The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system~\cite{UML_Distilled}. 
+
+In other words, we can say that UML is a set of rules and recommendations on how to create visual structural and relational models of software systems.
+
+The creation of UML was originally motivated by the desire to standardize the disparate notational systems and approaches to software design. It was developed at Rational Software in 1994–1995, with further development led by them through 1996~\cite{UML_user_guide:Booch}.
+
+\subsection{What UML include?}
+The fact is UML consist of many types of diagrams \ref{UML:diagrams}. In order to understand the benefits of a sequence diagram, it is important first to understand what other diagrams exist in UML and for what purposes they are used.
+
+\begin{figure*}[tbh]
+	\centering
+	\includegraphics[scale=0.5]{UML diagrams.png}
+	\caption{Diagram types \cite{UML_user_guide:Booch}.}
+	\label{UML:diagrams}
+	\end{figure*}
+
+Looking at Figure \ref{UML:diagrams}, we see that the structural tree of UML diagrams is rather voluminous. Not all of these diagrams are actively used in the development industry ~\cite{UML_Distilled}, but each was created for a specific purpose. In Table 1, we can see the 4 main types of diagrams actively used in the development industry, and a short summary of their purpose and structural composition.
+
+ \begin{table}[htbp]
+	\begin{tabular}{|p{0.35\linewidth}|p{0.35\linewidth}|p{0.35\linewidth}|}
+	\hline
+					  & Uses for representation                                                          & Consist of                                    \\ 
+					  \hline
+	Sequence diagram  & relations of the object in time sequence                                         & objects and messages on lifeline.             \\ 
+	\hline
+	Class diagram     & static classes structure in a model and relations between them.                  & classes, that contain attributes and methods. \\ 
+	\hline
+	Activity diagram  & of workflows of stepwise activities and actions.                                 & activities and logic blocks.                  \\ 
+	\hline
+	Component diagram & how components are wired together to form larger components or software systems. & structural components.                        \\ 
+	\hline
+	\end{tabular}
+\end{table}
 
 \section{When to use a sequence diagram} \label{when}
 A sequence diagram should be used primarily to visualize relationships between objects, taking into account the sequence of these very relationships~\cite{IBM_SD}.
@@ -64,8 +98,6 @@ This diagram is very useful for modeling synchronous services, it allows you to 
 % \caption{Rozhodujúci argument.}
 % \label{f:rozhod}
 \end{figure*}
-
-
 
 \section{The notation} \label{notation}
 
