@@ -1,5 +1,10 @@
 \begin{thebibliography}{1}
 
+\bibitem{System_analys:Dennis}
+David~Tegarden Alan~Dennis, Barbara~Wixom.
+\newblock {\em Systems Analysis and Design: An Object‑Oriented}.
+\newblock Wiley, 2002.
+
 \bibitem{IBM_SD}
 Donald Bell.
 \newblock Explore the uml sequence diagram.
